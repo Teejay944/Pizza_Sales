@@ -236,11 +236,11 @@ We would like to visualize various aspects of our pizza sales data to gain insig
 # Average_ORDER_VALUE :
 ![Average_order_value](assets/images/Average pizza per order.png)
 # Total Pizza Sold: 
-![Total Revenue](assets/images/Total_orders.png)
+![Total Pizza Sold](assets/images/Total pizza Sold.png)
 # TOTAL_ORDERS
-![Total Revenue](assets/images/Total_orders.png)
+![Total Orders](assets/images/Total_orders.png)
 # AVEREAGE_PIZZA_ORDER
-![Total Revenue](assets/images/Total_revenue.png)
+![Average pizza order](assets/images/Total_revenue.png)
 
 
 # Visualization 
