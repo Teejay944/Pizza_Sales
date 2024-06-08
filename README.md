@@ -162,6 +162,8 @@ XL-X-LARGE
 -- 1. Total Revenue :
 SELECT SUM(total_price) AS total_revenue
 	FROM pizza_sales11
+![Total Revenue](URL_to_image)
+
 
 
 -- 2. Average Order Value : 
@@ -238,7 +240,7 @@ We would like to visualize various aspects of our pizza sales data to gain insig
 
 - What does the dashboard look like?
 
-![GIF of Excel Dashboard](assets/images/top_uk_youtubers_2024.gif)
+![GIF of Excel Dashboard](assets/images/PIZZA_EXCEL Dashboard.png)
  
 
 
