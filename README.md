@@ -240,7 +240,7 @@ We would like to visualize various aspects of our pizza sales data to gain insig
 
 - What does the dashboard look like?
 
-![GIF of Excel Dashboard](assets/images/PIZZA_EXCEL Dashboard.png)
+![Excel Dashboard](assets/images/PIZZA_EXCEL Dashboard.png)
  
 
 
