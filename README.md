@@ -162,7 +162,7 @@ XL-X-LARGE
 -- 1. Total Revenue :
 SELECT SUM(total_price) AS total_revenue
 	FROM pizza_sales11
-![Total Revenue](URL_to_image)
+![Total Revenue](assets/images/Total_revenue.png)
 
 
 
