@@ -162,7 +162,7 @@ XL-X-LARGE
 -- 1. Total Revenue :
 SELECT SUM(total_price) AS total_revenue
 	FROM pizza_sales11
-![Total Revenue](assets/images/Total_revenue.png)
+
 
 
 
@@ -231,6 +231,16 @@ We would like to visualize various aspects of our pizza sales data to gain insig
 
 
 ```
+# TOTAL_REVENUE
+![Total Revenue](assets/images/Total_revenue.png)
+# Average_ORDER_VALUE :
+![Total Revenue](assets/images/Total_revenue.png)
+# Total Pizza Sold: 
+![Total Revenue](assets/images/Total_revenue.png)
+# TOTAL_ORDERS
+![Total Revenue](assets/images/Total_revenue.png)
+# AVEREAGE_PIZZA_ORDER
+![Total Revenue](assets/images/Total_revenue.png)
 
 
 # Visualization 
